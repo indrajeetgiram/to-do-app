@@ -12,7 +12,7 @@ A simple and user-friendly To-Do List application built with HTML, CSS, JavaScri
 
 ## Demo
 
-![App Screenshot](screenshot.png)
+You can chek the live version here : https://todoproductivity.netlify.app/
 
 ## Getting Started
 
